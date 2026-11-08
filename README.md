@@ -1,7 +1,7 @@
 # Sovyrun: Opticode (v1.0.0)
 ### Out-of-Band Ocular Data Ingestion Framework for Isolated Compute Nodes
 
-An ultra-lean, air-gapped transmission protocol designed to facilitate unidirectional data ingestion between disparate hardware architectures via pure optical parsing, bypassing physical media contact (USB) or network dependency bridge constraints entirely.
+An ultra-lean, un-hackable, air-gapped transmission protocol designed to facilitate unidirectional data ingestion between disparate hardware architectures via pure optical parsing, bypassing physical media contact (USB) or network dependency bridge constraints entirely.
 
 Opticode utilizes a standard camera lens as an artificial QR code retina translator. The isolated target machine reads incoming transmission matrix arrays exactly like a human operator, enforcing an un-hackable, out-of-band boundary for sandboxed script execution testing.
 
